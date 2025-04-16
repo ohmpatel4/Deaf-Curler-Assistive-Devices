@@ -4,7 +4,7 @@ Curling is a sport that heavily relies on verbal communication between teammates
 ![5184080433590152683](https://github.com/user-attachments/assets/a3fa430d-db2e-48c8-8c9e-9ed9abed5d39)
 ![5184080433590152682](https://github.com/user-attachments/assets/2003a061-b118-4ac7-bea4-3dab6545a049)
 
-##Background of the Invention
+## Background of the Invention
 This device was developed because there was a lack of development in this space in curling for more inclusivity. Deaf sweepers were struggling with receiving commands and skips were also struggling with issuing them. For curlers (and athletes in general) who are deaf or hard of hearing, this presents a significant barrier to competitive participation as they may be unable to hear these critical instructions.
 Current adaptations for deaf players are limited and often require visual cues or physical vibrations, which can be imprecise, distracting, or introduce delays that affect performance. Other issues are devices that provide too much information and make interpreting commands difficult. As inclusivity in sports becomes increasingly important, there's a growing need for assistive technologies that allow deaf curlers to receive timely, reliable, and non-verbal communication during gameplay.
 The invention presented here seeks to eliminate these issues by being as simple as possible and assures that the need for visual aids is limited. The skip device can be used without looking and the sweeper devices display simple color combinations that are easy to decode into commands.
